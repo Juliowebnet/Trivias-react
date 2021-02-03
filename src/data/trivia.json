@@ -1,0 +1,238 @@
+{
+    "cine":[
+        {
+            "pregunta": "¿Actor que protagoniza la película Corazón valiente (Braveheart) de 1995?",
+            "respuestas": [
+                "Will Smith",
+                "Bruce Willis",
+                "Chuck Norris",
+                "Mel Gibson",
+                "Steven Seagal"
+            ],
+            "respuestaCorrecta": "Mel Gibson"
+        },
+        {
+            "pregunta": "¿Año en el que se estrena la primera película de Mortal Kombat (live action)?",
+            "respuestas": [
+                "1997",
+                "2003",
+                "1995",
+                "2000",
+                "1989"
+            ],
+            "respuestaCorrecta": "1995"
+        },
+        {
+            "pregunta": "¿Película protagonizada por Will Smith, basada en un mundo post-apocalíptico?",
+            "respuestas": [
+                "Yo, Robot (I, Robot)",
+                "Guerra Mundial Z (World War Z)",
+                "Chernobyl",
+                "Soy leyenda (I Am Legend)",
+                "Gemini Man"
+            ],
+            "respuestaCorrecta": "Soy leyenda (I Am Legend)"
+        },
+        {
+            "pregunta": "¿Actriz qué protagoniza la película The Fifth Element?",
+            "respuestas": [
+                "Angelina Jolie",
+                "Milla Jovovich",
+                "Ana de Armas",
+                "Natalie Portman",
+                "Whoopi Goldberg"
+            ],
+            "respuestaCorrecta": "Milla Jovovich"
+        },
+        {
+            "pregunta": "¿Película protagonizada por Jackie Chan y Chris Tucker?",
+            "respuestas": [
+                "Una pareja explosiva (Rush Hour)",
+                "Duro de matar (Die Hard)",
+                "Arma Mortal (Lethal Weapon)",
+                "Bad Boys",
+                "Dolor y Dinero (Pain & Gain)"
+            ],
+            "respuestaCorrecta": "Una pareja explosiva (Rush Hour)"
+        },
+        {
+            "pregunta": "¿Actriz qué protagonizo la película Cambio de hábito (Sister Act)?",
+            "respuestas": [
+                "Milla Jovovich",
+                "Emma Stone",
+                "Whoopi Goldberg",
+                "Octavia Spencer",
+                "Queen Latifah"
+            ],
+            "respuestaCorrecta": "Whoopi Goldberg"
+        },
+        {
+            "pregunta": "¿Película donde dos policias se hacen pasar por chicas?",
+            "respuestas": [
+                "Miss Simpatía (Miss Congeniality)",
+                "¿...Y dónde están las rubias? (White Chicks)",
+                "De ladrón a policía (Blue Streak)",
+                "Bad Boys",
+                "Dolor y Dinero (Pain & Gain)"
+            ],
+            "respuestaCorrecta": "¿...Y dónde están las rubias? (White Chicks)"
+        },
+        {
+            "pregunta": "¿Actor qué protagonizo la película Scarface?",
+            "respuestas": [
+                "Robert De Niro",
+                "Jack Nicholson",
+                "samuel l jackson",
+                "Al Pacino",
+                "Anthony Hopkins"
+            ],
+            "respuestaCorrecta": "Al Pacino"
+        },
+        {
+            "pregunta": "¿Actor qué interpreto a Morfeo (Morpheus) en The Matrix?",
+            "respuestas": [
+                "Laurence Fishburne",
+                "Keanu Reeves",
+                "Hugo Weaving",
+                "Mel Gibson",
+                "Will Smith"
+            ],
+            "respuestaCorrecta": "Laurence Fishburne"
+        },
+        {
+            "pregunta": "¿Cuál fue el director de Spider-Man del 2002?",
+            "respuestas": [
+                "Steven Spielberg",
+                "Sam Raimi",
+                "Woody Allen",
+                "Martin Scorsese",
+                "Mel Gibsong"
+            ],
+            "respuestaCorrecta": "Sam Raimi"
+        },
+        {
+            "pregunta": "¿En qué año fue la primera entrega de los premios Oscar?",
+            "respuestas": [
+                "1929",
+                "1965",
+                "1952",
+                "1943",
+                "1987"
+            ],
+            "respuestaCorrecta": "1929"
+        },
+        {
+            "pregunta": "¿En qué película de marvel aparece por primera vez Spider-Man?",
+            "respuestas": [
+                "Captain America: Civil War",
+                "Iron Man 3",
+                "Avengers: Infinity War",
+                "Spider-Man: Homecoming",
+                "Avengers: Age of Ultron"
+            ],
+            "respuestaCorrecta": "Captain America: Civil War"
+        },
+        {
+            "pregunta": "¿Qué personaje interpreta Chris Evans en las películas de Marvel?",
+            "respuestas": [
+                "Iron Man",
+                "Captain America",
+                "Thor",
+                "Spider-Man",
+                "Doctor Strange"
+            ],
+            "respuestaCorrecta": "Captain America"
+        },
+        {
+            "pregunta": "¿Qué actor interpreta a Thor en las películas de Marvel?",
+            "respuestas": [
+                "Chris Evans",
+                "Chris Pratt",
+                "Chris Hemsworth",
+                "Benedict Cumberbatch",
+                "Mark Ruffalo"
+            ],
+            "respuestaCorrecta": "Chris Hemsworth"
+        },
+        {
+            "pregunta": "¿En qué año fue estrenada la primera película de Parque Jurásico (Jurassic Park)?",
+            "respuestas": [
+                "1988",
+                "1993",
+                "1998",
+                "1999",
+                "2001"
+            ],
+            "respuestaCorrecta": "1993"
+        },
+        {
+            "pregunta": "¿Nombre del pez que acompaña a la princesa Ariel de Disney?",
+            "respuestas": [
+                "Sebastian",
+                "Triton",
+                "Louis",
+                "Max",
+                "flounder"
+            ],
+            "respuestaCorrecta": "flounder"
+        },
+        {
+            "pregunta": "¿Nombre del personaje que entrena a Hercules de Disney?",
+            "respuestas": [
+                "Heracles",
+                "Phil",
+                "Louis",
+                "Max",
+                "Timon"
+            ],
+            "respuestaCorrecta": "Phil"
+        },
+        {
+            "pregunta": "¿Qué actor interpreta a Burro de Shrek en su versión latina?",
+            "respuestas": [
+                "Eddie Murphy",
+                "Mike Myers",
+                "Mario Castañeda",
+                "Mario Filio",
+                "Eugenio Derbez"
+            ],
+            "respuestaCorrecta": "Eugenio Derbez"
+        },
+        {
+            "pregunta": "¿Cuantas películas tiene la saga principal de Harry Potter?",
+            "respuestas": [
+                "6",
+                "11",
+                "7",
+                "15",
+                "8"
+            ],
+            "respuestaCorrecta": "8"
+        },
+        {
+            "pregunta": "¿Como se llama el robot que acompaña a Luke Skywalker en las películas de Star Wars?",
+            "respuestas": [
+                "R2-D2",
+                "BB-8",
+                "K-2SO",
+                "Arturito",
+                "IG-88"
+            ],
+            "respuestaCorrecta": "R2-D2"
+        }
+    ],
+    "tecnologia":[
+        {
+            "pregunta": "¿Cual es el significado de CSS?",
+            "respuestas": [
+                "I, Robot",
+                "World War Z",
+                "Chernobyl",
+                "I Am Legend",
+                "Gemini Man"
+            ],
+            "respuestaCorrecta": "I Am Legend"
+        }
+        
+    ]
+}
